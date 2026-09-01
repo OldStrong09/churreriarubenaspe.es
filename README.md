@@ -612,27 +612,42 @@ Pagina Web de Churreria Ruben Aspe
   </div>
 </section>
 
-<section class="story" id="resenas" style="padding-top:80px; padding-bottom:80px;">
+<section id="resenas" class="contact">
   <div class="wrap">
     <div class="section-head">
-      <div class="eyebrow">Lo que dicen en Google</div>
-      <h2>4,6 sobre 5, con clientes que repiten cada semana.</h2>
+      <div class="eyebrow">Tu opinión cuenta</div>
+      <h2>¿Te han gustado nuestras porras?</h2>
+      <p>
+        Si has disfrutado de tu desayuno en Churrería Rubén,
+        tu opinión nos ayuda muchísimo a seguir creciendo y a que
+        más gente de Aspe nos conozca.
+      </p>
     </div>
-    <div class="timeline">
-      <div class="tl-item">
-        <span class="tl-year mono">★★★★★</span>
-        <h3>Rapidez y buen trato</h3>
-        <p>Varios clientes destacan lo bien atendidos que se sienten desde el primer día, con un ambiente cercano y familiar en cada visita.</p>
+
+    <div class="card" style="text-align:center; max-width:650px; margin:0 auto;">
+      <div style="font-size:28px; letter-spacing:4px; margin-bottom:12px;">
+        ★★★★★
       </div>
-      <div class="tl-item">
-        <span class="tl-year mono">★★★★★</span>
-        <h3>Porras recién hechas</h3>
-        <p>Se repite mucho la misma idea: las porras salen calientes y en el punto justo, y el chocolate acompaña perfecto para mojar sin prisa.</p>
-      </div>
+
+      <h3>Déjanos tu opinión en Google</h3>
+
+      <p>
+        Solo tardas unos segundos y nos ayudas muchísimo.
+        ¡Gracias por confiar en Churrería Rubén!
+      </p>
+
+      <a
+        href="https://g.page/r/CYieDw0CuQVeEAE/review"
+        target="_blank"
+        rel="noopener"
+        class="btn btn-primary"
+        style="justify-content:center;"
+      >
+        ⭐ DEJAR RESEÑA EN GOOGLE
+      </a>
     </div>
   </div>
 </section>
-
 <section class="contact" id="contacto">
   <div class="wrap">
     <div class="section-head">
