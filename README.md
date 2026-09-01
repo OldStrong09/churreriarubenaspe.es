@@ -16,10 +16,11 @@ Pagina Web de Churreria Ruben Aspe
 {
   "@context": "https://schema.org",
   "@type": "Bakery",
+  "@id": "https://churreriarubenaspe.es/#business",
   "name": "Churrería Rubén Aspe",
-  "@id": "https://churreriarubenaspe.com",
-  "url": "https://churreriarubenaspe.com",
+  "url": "https://churreriarubenaspe.es/",
   "telephone": "+34665692896",
+  "description": "Churrería artesanal en Aspe, Alicante. Porras artesanales recién hechas, chocolate a la taza, café y desayunos. Desde 2021.",
   "priceRange": "€",
   "address": {
     "@type": "PostalAddress",
@@ -29,13 +30,10 @@ Pagina Web de Churreria Ruben Aspe
     "postalCode": "03680",
     "addressCountry": "ES"
   },
-  "openingHoursSpecification": [{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-    "opens": "06:00",
-    "closes": "12:00"
-  }],
-  "servesCuisine": "Churrería",
+  "areaServed": {
+    "@type": "City",
+    "name": "Aspe"
+  },
   "sameAs": [
     "https://www.instagram.com/aspe_churreriaruben/",
     "https://www.tiktok.com/@elchurrerodeaspe"
